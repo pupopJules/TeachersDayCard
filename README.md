@@ -1384,7 +1384,7 @@ h1 span {
                     <div class="corner bottom-right"></div>
 
                     <img
-                        src="images/sir-randy-bello.png"
+                        src="sir-randy-bello.png"
                         alt="Randy Bello"
                     >
 
